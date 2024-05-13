@@ -3,8 +3,8 @@
 
 __Автор__ - [AlfaIV](https://github.com/alfaiv)</br>
 __Задание__ - [Методические указания](https://github.com/init/highload/blob/main/homework_architecture.md)</br>
-__[Таблица отчетности](https://vk.com/away.php?to=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1XhRgeQARIXGoiTSYQStW4GTlXJ62-jgL36c2i8HvYJ4%2Fedit%3Fusp%3Dsharing&cc_key=)
-__Защита__ - [Презентация](https://docs.google.com/presentation/d/1gicHEJkbR9tMTH78PzCg_QQl-Ex8GyCDlUpjL1dbHoc/edit?usp=sharing) 
+__[Таблица отчетности](https://vk.com/away.php?to=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1XhRgeQARIXGoiTSYQStW4GTlXJ62-jgL36c2i8HvYJ4%2Fedit%3Fusp%3Dsharing&cc_key=)</br>
+__Защита__ - [Презентация](https://docs.google.com/presentation/d/1gicHEJkbR9tMTH78PzCg_QQl-Ex8GyCDlUpjL1dbHoc/edit?usp=sharing)</br>
 
 ## Содержание
 
